@@ -14,7 +14,7 @@ export default function DewaBuildingProject() {
         <div className="aspect-[16/7] w-full relative">
           {/* Replace with your favorite hero */}
           {/* Using plain <img> because images are unoptimized in static export */}
-          <img src="/projects/dewa-building/image18.jpg" alt="DEWA 3D-printed lab" className="w-full h-full object-cover opacity-70" />
+          <img src="/projects/dewa-building/hero.jpg" alt="DEWA 3D-printed lab" className="w-full h-full object-cover opacity-70" />
           <div className="absolute inset-0 flex items-center justify-center">
             <div className="max-w-3xl text-center px-6">
               <h1 className="text-3xl md:text-5xl font-semibold">First 3D‑Printed Building in the UAE (DEWA)</h1>
