@@ -1,0 +1,1 @@
+import HoverPreviewList from '@/components/HoverPreviewList';export default function ProjectsPage(){return(<main className='space-y-8'><h1 className='text-2xl md:text-4xl font-semibold'>Projects</h1><HoverPreviewList/></main>) }

@@ -1,0 +1,1 @@
+# Marco Portfolio — Vercel-ready\n\nNext.js (App Router) + Tailwind + Framer Motion.\n\n## Start\n```bash\nnpm install\nnpm run dev\n```\n\n## Deploy on Vercel\n- Push to GitHub\n- Vercel → New Project → Import repo → Deploy\n\n## Notes\n- Absolute asset paths from `/public`\n- Switch `<img>` to Next `<Image>` later for optimization\n
